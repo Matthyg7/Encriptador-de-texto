@@ -129,9 +129,8 @@ textarea {
 /* Estilo para la imagen */
 #muñeco {
     width: 336px;
-    height: 304px;
+    height: 270px;
     margin-top: 10px;
-    margin-left: 37px;
 }
 
 .mensajes {
@@ -315,7 +314,7 @@ footer {
         margin-left:40px;
     }
     #muñeco{
-        display: none;
+      display: none;
     }
     .mensajes {
         justify-content: center;
